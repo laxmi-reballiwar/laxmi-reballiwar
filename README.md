@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Laxmi 👋  
 
-<!--
-**laxmi-reballiwar/laxmi-reballiwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst focused on turning data into meaningful insights to support better decision-making.  
 
-Here are some ideas to get you started:
+# Skills
+- Python
+- SQL
+- Power BI  
+- Data Analysis & Visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- Ecommerce Sales Dashboard (Power BI)  
+
+# 🌱 Currently Learning
+- Working on real-world data analytics projects
+- Working on Power BI Dashboards
+
+# Approach
+- Emphasis on clarity and practical understanding  
+- Continuous learning and improvement  
+- Building projects to strengthen analytical thinking  
+
+# Connect with me
+- LinkedIn: (https://www.linkedin.com/in/laxmi-reballiwar/)
+
+
