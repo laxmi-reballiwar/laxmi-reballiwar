@@ -5,11 +5,14 @@
 # Skills
 - Python
 - SQL
+- Python Libraries- NUmpy, Pandas, Matplotlib, Seaborn
 - Power BI  
 - Data Analysis & Visualization  
 
 # Projects
-- Ecommerce Sales Dashboard (Power BI)  
+- YouTube Analytics Dashboard (PoerBI)
+- Ecommerce Sales Dashboard (Power BI)
+- Store Performance  Analysis (In Python by using Libraries)
 
 # 🌱 Currently Learning
 - Working on real-world data analytics projects
